@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm VEERAMANI
 
-<!--
-**veeramaniamk/veeramaniamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer specializing in building Android applications and backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+- Java
+- Kotlin
+- XML (for Android UI)
+
+### 📱 Mobile Development
+- Android Development (Java / Kotlin)
+- Jetpack Components (ViewModel, LiveData, Navigation, Room)
+- Retrofit, Firebase, Glide, MPAndroidChart, Google Maps
+
+### 🌐 Backend Development
+- Spring Boot (REST APIs, Security, JPA, Validation)
+- Node.js 
+
+### 🗄️ Databases
+- MySQL
+- Firebase Realtime Database / Firestore
+- SQLite (Android)
+
+---
+
+## 📚 Projects
+
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| **Heart Rate Monitoring App** | An Android app that tracks and visualizes user heart rate in real time | Android, Kotlin, MPAndroidChart |
+| **Tutor Finder** | A mobile platform connecting tutors and students | Android, Firebase, Google Maps |
+| **SpareFinds** | Spare parts eCommerce Android app | Android, Firebase, Firestore, Razorpay |
+
+> 💡 Want to see more? Check the pinned repositories below.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/in/veeramaniamk/)
+
+---
+
+_Thanks for visiting my profile! Let's build something great together._
