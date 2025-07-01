@@ -6,6 +6,10 @@ I'm a passionate software developer specializing in building Android application
 
 ## 🚀 Tech Stack
 <p align="left">
+     <!-- java -->
+    <a href="https://www.oracle.com/java/technologies/" target="_blank" rel="noopener noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+    </a>
     <!-- git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
