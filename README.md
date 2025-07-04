@@ -59,6 +59,10 @@ I'm a passionate software developer specializing in building Android application
 
 ## 📫 Connect with Me
 
-- LinkedIn: (https://www.linkedin.com/in/veeramaniamk/)
+<!-- type script -->
+
+<a href="https://www.linkedin.com/in/veeramaniamk" target="_blank" rel="noreferrer" title="Linked In"> 
+   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40"/>
+</a> 
 
 ---
