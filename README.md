@@ -51,7 +51,7 @@ I'm a passionate software developer specializing in building Android application
     </a>
     <!-- type script -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Type Script"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="10" height="10"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a> 
 </p>
 
@@ -62,7 +62,7 @@ I'm a passionate software developer specializing in building Android application
 <!-- type script -->
 
 <a href="https://www.linkedin.com/in/veeramaniamk" target="_blank" rel="noreferrer" title="Linked In"> 
-   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="15" height="15"/>
 </a> 
 
 ---
