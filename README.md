@@ -62,7 +62,7 @@ I'm a passionate software developer specializing in building Android application
 <!-- type script -->
 
 <a href="https://www.linkedin.com/in/veeramaniamk" target="_blank" rel="noreferrer" title="Linked In"> 
-   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="15" height="15"/>
+   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="24" height="25"/>
 </a> 
 
 ---
