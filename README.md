@@ -70,6 +70,6 @@ I'm a passionate software developer specializing in building Android application
    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
 </a>  -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg" width="24" height="25"/>
   <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
 </picture>
