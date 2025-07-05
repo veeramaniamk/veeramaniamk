@@ -67,7 +67,7 @@ I'm a passionate software developer specializing in building Android application
 </a> 
 <!-- X -->
 <a href="https://x.com/veeramaniamk" target="_blank" rel="noreferrer" title="X"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="x" width="24" height="25"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="x" width="24" height="25"/>
 </a> 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg" width="24" height="25"/>
