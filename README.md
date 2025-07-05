@@ -63,10 +63,12 @@ I'm a passionate software developer specializing in building Android application
 
 ## 📫 Connect with Me
 
-<!-- type script -->
-
+<!-- Linked In -->
 <a href="https://www.linkedin.com/in/veeramaniamk" target="_blank" rel="noreferrer" title="Linked In"> 
    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="24" height="25"/>
 </a> 
-
+<!-- X -->
+<a href="https://x.com/veeramaniamk" target="_blank" rel="noreferrer" title="X"> 
+   <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
+</a> 
 ---
