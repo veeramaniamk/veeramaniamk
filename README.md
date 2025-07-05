@@ -69,4 +69,3 @@ I'm a passionate software developer specializing in building Android application
 <a href="https://x.com/veeramaniamk" target="_blank" rel="noreferrer" title="X"> 
    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
 </a> 
----
