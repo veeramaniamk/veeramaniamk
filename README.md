@@ -59,8 +59,6 @@ I'm a passionate software developer specializing in building Android application
     </a> 
 </p>
 
----
-
 ## 📫 Connect with Me
 
 <!-- Linked In -->
