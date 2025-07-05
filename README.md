@@ -30,6 +30,10 @@ I'm a passionate software developer specializing in building Android application
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Apache">
         <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="kafka" width="40" height="40"/>
     </a> 
+     <!-- apache tomcat -->
+    <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer" title="Apache Tomcat">
+        <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40" height="40"/>
+    </a> 
     <!-- linux -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
