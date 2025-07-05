@@ -68,7 +68,11 @@ I'm a passionate software developer specializing in building Android application
 <!-- X -->
 <a href="https://x.com/veeramaniamk" target="_blank" rel="noreferrer" title="X"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="x" width="24" height="25"/>
-</a> 
+</a>
+<!-- Facebook -->
+<a href="https://www.facebook.com/profile.php?id=61577810201938" target="_blank" rel="noreferrer" title="Facebook"> 
+   <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" width="24" height="25"/>
+</a>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg" width="24" height="25"/>
   <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
