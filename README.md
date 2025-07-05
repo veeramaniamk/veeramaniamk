@@ -66,6 +66,10 @@ I'm a passionate software developer specializing in building Android application
    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="24" height="25"/>
 </a> 
 <!-- X -->
-<a href="https://x.com/veeramaniamk" target="_blank" rel="noreferrer" title="X"> 
+<!-- <a href="https://x.com/veeramaniamk" target="_blank" rel="noreferrer" title="X"> 
    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
-</a> 
+</a>  -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg" />
+  <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="x" width="24" height="25"/>
+</picture>
